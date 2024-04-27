@@ -43,11 +43,17 @@ The comments are also about products and are mostly in Persian colloquial langua
 This is our current progress and next steps (the bold steps are done or about to be done).
 
 **1- Collect article links.**
+
 **2- Crawl the articles.**
+
 **3- save them on a PostgreSQL for backend and public use.**
+
 **4- Developing the website backend and frontend.**
+
 5- Purchasing the server and an S3 storage.
+
 6- Run a campaign on LinkedIn and Instagram (we will ask individuals active in literature and art to advertise us if they would like).
+
 7- Publish Ava on HuggingFace.
 
 
